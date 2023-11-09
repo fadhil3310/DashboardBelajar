@@ -5,4 +5,10 @@
 
 Aplikasi GUI untuk projek Lampu Belajar tugas dari Samsung Innovation Campus.
 
-Dibuat pakai QtQuick (PySide2) dan Python.
+Dibuat khusus untuk perangkat layar sentuh seperti Raspberry Pi.
+
+## Cara menjalankan
+
+1. Download Qt 5 dan QtQuick.
+2. Download Python dan PySide2.
+3. Jalankan.
